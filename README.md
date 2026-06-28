@@ -176,6 +176,14 @@ During this project, I gained practical experience in:
 
 🔗 GitHub: https://github.com/manojkumar-b05
 
+## 🎥 Project Demo Video
+
+To demonstrate the final output of this project, I created an AI-generated UGC advertisement for **Boat Airdopes**.
+
+▶️ **Watch the demo video here:** [boat-airdopes-ad.mp4](./assets/README.md)
+
+The video showcases a short-form UGC advertisement created for social media platforms such as Instagram Reels, Facebook Reels, and YouTube Shorts.
+
 ---
 
 ## ⭐ Acknowledgement
